@@ -13,13 +13,13 @@ import{getAuth} from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBeR4sNBciB78Ts5iGKj0ur7it_0juj4u4",
-  authDomain: "todo-list-cb292.firebaseapp.com",
-  databaseURL: "https://todo-list-cb292-default-rtdb.firebaseio.com",
-  projectId: "todo-list-cb292",
-  storageBucket: "todo-list-cb292.appspot.com",
-  messagingSenderId: "178082350581",
-  appId: "1:178082350581:web:511b59539029177e85ccbc"
+  apiKey: "AIzaSyDG8_Lz9ggCm-gA1UM6TftJoSnTX7m-NWw",
+  authDomain: "revelationapp-390bd.firebaseapp.com",
+  databaseURL: "https://revelationapp-390bd-default-rtdb.firebaseio.com",
+  projectId: "revelationapp-390bd",
+  storageBucket: "revelationapp-390bd.appspot.com",
+  messagingSenderId: "465444417647",
+  appId: "1:465444417647:web:54b90ab71cf4b21a26dd9a"
 };
 
 // Initialize Firebase
